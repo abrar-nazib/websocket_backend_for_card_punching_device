@@ -1,0 +1,58 @@
+[
+    {
+        "index": 0,
+        "rfid": 1234567890,
+        "name": "Card 1",
+        "balance": 890,
+        "status": false
+    },
+    {
+        "index": 1,
+        "rfid": 1234567891,
+        "name": "Card 2",
+        "balance": 2000,
+        "status": false
+    },
+    {
+        "index": 2,
+        "rfid": 1234567892,
+        "name": "Card 3",
+        "balance": 3000,
+        "status": false
+    },
+    {
+        "index": 3,
+        "rfid": 1234567893,
+        "name": "Card 4",
+        "balance": 4000,
+        "status": false
+    },
+    {
+        "index": 4,
+        "rfid": 1234567894,
+        "name": "Card 5",
+        "balance": 5000,
+        "status": false
+    },
+    {
+        "index": 5,
+        "rfid": 1234567895,
+        "name": "Card 6",
+        "balance": 100,
+        "status": false
+    },
+    {
+        "index": 6,
+        "rfid": 1234567896,
+        "name": "Card 7",
+        "balance": 0,
+        "status": false
+    },
+    {
+        "index": 7,
+        "rfid": 1234567897,
+        "name": "Card 8",
+        "balance": 50,
+        "status": false
+    }
+]

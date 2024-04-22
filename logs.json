@@ -1,0 +1,156 @@
+[
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:23:31.653Z",
+        "type": "check in"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:23:33.657Z",
+        "type": "check out"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:23:35.658Z",
+        "type": "check in"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:23:37.656Z",
+        "type": "check out"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:23:39.656Z",
+        "type": "check in"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:23:41.662Z",
+        "type": "check out"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:23:43.663Z",
+        "type": "check in"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:23:45.669Z",
+        "type": "check out"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:23:47.672Z",
+        "type": "check in"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:23:49.661Z",
+        "type": "check out"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:23:51.667Z",
+        "type": "check in"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:23:53.662Z",
+        "type": "check out"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:23:55.664Z",
+        "type": "check in"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:23:57.665Z",
+        "type": "check out"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:23:59.667Z",
+        "type": "check in"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:24:01.669Z",
+        "type": "check out"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:24:03.670Z",
+        "type": "check in"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:24:05.668Z",
+        "type": "check out"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:24:07.669Z",
+        "type": "check in"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:24:09.671Z",
+        "type": "check out"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:24:11.671Z",
+        "type": "check in"
+    },
+    {
+        "card": 1234567890,
+        "device": "00:00:00:00:00:01",
+        "gps_location": "838770,838770",
+        "timestamp": "2024-04-22T10:24:13.676Z",
+        "type": "check out"
+    }
+]
